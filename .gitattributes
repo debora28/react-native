@@ -1,2 +1,4 @@
-* linguist-vendor
+* linguist-vendored
 *.js linguist-detectable=true
+dist/* linguist-vendored
+jquery.js linguist-vendored=true
